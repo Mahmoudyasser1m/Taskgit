@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Welcome to Version 1!");
+    alert("Welcome to Version 2!");
 }
